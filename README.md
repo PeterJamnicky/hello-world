@@ -1,2 +1,1 @@
-# hello-world
-Prva skusenost s githubom
+bla bla bla toto je commit
